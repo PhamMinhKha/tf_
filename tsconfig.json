@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "target": "es2016", 
+    "resolveJsonModule": true,
+    "lib": [
+      "es6"
+    ], 
+    "module": "commonjs", 
+    "rootDir": ".", 
+    "moduleResolution": "node", 
+    "baseUrl": ".", 
+    "paths": {
+      "@models/*": [
+        "models/*"
+      ],
+      "@schema/*": [
+        "schema/*"
+      ],
+      "@utilities/*": [
+        "Utilities/*"
+      ],
+      "@database/*": [
+        "data/*"
+      ],
+      "@resolver/*": [
+        "resolver/*"
+      ]
+    },                   
+    "sourceMap": true,                                
+    "outDir": "./dist", 
+    "esModuleInterop": true, 
+    "forceConsistentCasingInFileNames": true, 
+    "skipLibCheck": true, 
+  },
+  "include": ["./**/*"],
+  "exclude": ["node_modules", "dist"]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "version": "0.2",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "dev": "tsnd --respawn -r tsconfig-paths/register app.ts",
+    "dev2": "tsnd --respawn -r tsconfig-paths/register  --transpile-only --ignore-watch node_modules app.ts",
+    "postinstall": "npm  run tsc",
+    "tsc": "npx tsc",
+    "start": "node app.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "basic-auth": "^2.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.4",
+    "randomstring": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "@types/express": "^4.17.14",
+    "@types/jest": "^29.2.0",
+    "@types/node": "^18.11.2",
+    "@typescript-eslint/parser": "^5.40.1",
+    "tsconfig-paths": "^4.1.0",
+    "typescript": "^4.8.4"
+  }
+}

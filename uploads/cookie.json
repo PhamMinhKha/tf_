@@ -1,0 +1,41 @@
+[
+    {
+        "domain": "helurl.com",
+        "expirationDate": 1694911721.570574,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "helurlcom_free_file_upload_and_sharing_session",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6InZNVm50eHlxZVNxZWtOYVVXUEJDWlE9PSIsInZhbHVlIjoiTHNzbHBkWU1BR1ZSK3V3bTZNMDFSY1VhUCtsMCt3a245dkYyVEE4SzR2TXdMOFNHWjc4NDN0dEF5bFlEcXZsOVJldTRhQ3F5TjBqSGJqaUd2K1B0cDg4Qjd3dFE2K1pUR0FHYWJpUDlDNmN2MEltci9vMlA1cWtZYzloMStCeWMiLCJtYWMiOiIwODBlOGNkYWY3NTE5NDM0OWYxMjBiODU0OTgzNmIwYThhODg2MDZjOWYxNDVhNTBkZTIwN2NhZjU3ODIwMGExIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": "helurl.com",
+        "expirationDate": 1729422691.028409,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IkRYZEx3MW1vOXNqcnFQMG1aRG5GL1E9PSIsInZhbHVlIjoiUzBiQUJvUSttbmt6RnkxTW9yOWRsOTBBZTgrMW9vSnpleGN2UnlVaTRVODFEWGdxM1FkMkpzMjlQbVNuYWZvQUQvMmo0NVdYbzR4Y0krVk9LNW1TdHdDOFB3cEhMdnNCWDR6UXMrL3dHUExVaTNqNUJjcVNjWWJGZmM0NXZsVG83emlydko5dllXbjB2N0MzSkVYVUcxTC9ZZWx5ZjAxQzA4NTd5V0ZxQWFCb2t3MDlFd2dVU0RLeS9oK3QwYkptVmo5U054L05aU2pWUXlseVZFMlZQYTlnNTU0anpOS284NDJoTlgxNk9Scz0iLCJtYWMiOiJiYjI2NjNkNDkwNThhNjdiYWY1YmQ1Y2JhMmFmYWQ1ZDFiNGJjZDM4ZjBkZjNiN2I2OWEwMjZiMTY4MzdjMmU5IiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": "helurl.com",
+        "expirationDate": 1694911721.570523,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IkZhb0I4cVlsWXlJUWx6dXNaUTVsSXc9PSIsInZhbHVlIjoidzlFblphTnVqUjA1ODB2aVIwc2dqVVhhL0pNbDVKM2N1WWlKZHNHd1hRWnVPL2FYM2diZGlKWUxnekdYNy9qU0NKcnpIZmg2OVdhR2k2RHBBcVR3S2F5eW1FZlhlZGJIbXdSS1poMThxVHNIb1RHTlR4MHRPWXZWQ25Fc0dQQnYiLCJtYWMiOiJlN2RlZTA3MzNjMGIyZTA0YjI2NzkzNTI2MTNjZTlhNjE2YmZkMTU1ZTE4ZGMwYzY3YTdiNGY5NzQ0NjBmNDZiIiwidGFnIjoiIn0%3D"
+    }
+]
